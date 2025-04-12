@@ -2,9 +2,7 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🧑‍🏫BCA student From Teerthanker  Mahaveer University
-
 - 💬 Ask me about **css,javascript ,python**
-
 - 📫 How to reach me **arunrajput412995@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
