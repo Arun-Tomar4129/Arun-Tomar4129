@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arun Tomar</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **react,node.js**
+- 🧑‍🏫BCA student From Teerthanker  Mahaveer University
 
 - 💬 Ask me about **css,javascript ,python**
 
