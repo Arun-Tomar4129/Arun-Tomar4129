@@ -3,7 +3,7 @@
 
 - 🧑‍🏫BCA student From Teerthanker  Mahaveer University, Moradabad
 - 💬 I’m interested in creating new and amazing projects
-- 📫 Aspiring Full Stack Developer || Software Engineer
+- 📫  Full Stack Developer || Software Engineer
 
 
 <h3 align="left">Connect with me:</h3>
