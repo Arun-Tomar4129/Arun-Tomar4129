@@ -2,8 +2,9 @@
 <h3 align="center">A passionate full stack developer</h3>
 
 - 🧑‍🏫BCA student From Teerthanker  Mahaveer University, Moradabad
--💬 I’m interested in creating new and amazing projects
--📫 Aspiring Full Stack Developer || Software Engineer
+- 💬 I’m interested in creating new and amazing projects
+- 📫 Aspiring Full Stack Developer || Software Engineer
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
