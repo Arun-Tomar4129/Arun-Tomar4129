@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun Tomar</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-
 - 🌱 I’m currently learning **react,node.js**
 
 - 💬 Ask me about **css,javascript ,python**
@@ -10,8 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://x.com/arun4129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/arun4129" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arun-tomar-at7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arun-tomar-at7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100043077858923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100043077858923" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.at7_4129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.at7_4129" height="30" width="40" /></a>
 </p>
 
