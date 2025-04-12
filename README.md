@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arun Tomar</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🧑‍🏫BCA student From Teerthanker  Mahaveer University
-- 💬 Ask me about **css,javascript ,python**
-- 📫 How to reach me **arunrajput412995@gmail.com**
+- 🧑‍🏫BCA student From Teerthanker  Mahaveer University, Moradabad
+-💬 I’m interested in creating new and amazing projects
+-📫 Aspiring Full Stack Developer || Software Engineer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
