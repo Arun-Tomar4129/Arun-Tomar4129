@@ -18,7 +18,7 @@
  📈 GitHub Stats
 
 ![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arun-Tomar4129&show_icons=true&theme=radical)
-🧠 Most Used Languages [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Tomar4129&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun-Tomar4129&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arun-Tomar4129&theme=highcontrast)
 
