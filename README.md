@@ -30,6 +30,6 @@
  📈 GitHub Stats
 
 ![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arun-Tomar4129&show_icons=true&theme=radical) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arun-Tomar4129&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="195" alt="languages graph"  />
-[![GitHub Streak](https://streak-stats.demolab.com/?username=Arun-Tomar4129=dark)](https://git.io/streak-stats)
+![image](https://user-images.githubusercontent.com/107488620/183304037-0e54b5e6-f39a-481d-806f-3369d257a391.png)  
 
 ---
