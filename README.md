@@ -30,6 +30,5 @@
  📈 GitHub Stats
 
 ![Arun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arun-Tomar4129&show_icons=true&theme=radical) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arun-Tomar4129&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="195" alt="languages graph"  />
-![GitHub Streak](https://streak-stats.demolab.com/?user=Arun-Tomar4129&theme=highcontrast)
 
 ---
